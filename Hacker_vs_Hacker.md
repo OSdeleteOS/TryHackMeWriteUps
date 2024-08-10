@@ -13,3 +13,8 @@ Current Goal: find services that either have a version that is out of date and c
 Results: 
 
 <img src="images/A1.png" width=750>
+
+We can see that port 80 (HTTP) and port 22 (SSH) are open. From here we can attempt Enumuration of the HTTP website. 
+
+I will be using Dirb in order to enumurate directories on this HTTP website 
+
